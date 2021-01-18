@@ -1,7 +1,7 @@
 package demo01;
 //汽车类 （父类）
 public abstract class QiChe {
-    //品牌   日租金  车牌号
+    //品牌sss   日租金  车牌号
     private String pinPai ;
     private int zuJin;
     private String chePaiHao;
